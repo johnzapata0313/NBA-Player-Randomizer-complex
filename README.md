@@ -1,4 +1,4 @@
-NBA Player Randomizer 
+# NBA Player Randomizer 
 
 ![FF2D74EF-5FEC-4708-AC03-D2EB924E9140](https://github.com/user-attachments/assets/576e0310-6b2e-42f9-ae3d-d02e1ca6b729)
 
